@@ -1,10 +1,13 @@
 {
   "name": "ReactSnippets",
-  "description": "Code snippets for Reactjs development in ES6 syntax",
-  "version": "1.2.0",
-  "displayName": "Reactjs code snippets",
-  "publisher": "xabikos",
+  "description": "Code Snippets for ReactJS development in ES6 syntax",
+  "version": "1.2.1",
+  "displayName": "ReactJS Code Snippets",
+  "publisher": "cmj91uk",
   "icon": "images/react.png",
+  "scripts": {
+    "package": "vsce package",
+  },
   "galleryBanner": {
     "theme": "light"
   },
