@@ -21,10 +21,10 @@
   ],
   "contributes": {
     "snippets": [
-	  {
+      {
         "language": "javascriptreact",
         "path": "./snippets/snippets.json"
-	  },
+      },
       {
         "language": "javascript",
         "path": "./snippets/snippets.json"
@@ -42,5 +42,8 @@
         "path": "./snippets/snippets.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^1.18.0"
   }
 }
