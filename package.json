@@ -6,7 +6,7 @@
   "publisher": "cmj91uk",
   "icon": "images/react.png",
   "scripts": {
-    "package": "vsce package",
+    "package": "vsce package"
   },
   "galleryBanner": {
     "theme": "light"
